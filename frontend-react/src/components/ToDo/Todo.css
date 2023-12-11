@@ -1,0 +1,24 @@
+body{
+  background-color: #1E1E1E;
+}
+
+.todo{
+width:524px;
+height: 639px;
+top:-433px;
+left:1140px;
+background-color: #152431;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading{
+  color: #8FA8C1;
+  font-weight: 800;
+  font-size: larger;
+  padding-top: 27px;
+  margin-left: 175px;
+  margin-right: 176px;
+  margin-bottom: 40px;
+}
+
+

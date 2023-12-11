@@ -1,0 +1,44 @@
+.tododitem {
+    top: 50px;
+    font-size: small;
+}
+
+ul {
+    position: absolute;
+    padding-left: 10px;
+}
+
+.item {
+    width: 474px;
+    height: 69px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid rgb(58, 54, 54);
+    margin-left: 10px;
+}
+
+.icon {
+    color: #8fa8c1;
+    cursor: pointer;
+}
+
+.pen {
+    margin-right: 5px;
+    margin-left: 45px;
+    padding-right: 20px;
+}
+.trash {
+    margin-right: 36px;
+}
+p {
+    width: 134px;
+    height: 19px;
+    color: #8fa8c1;
+    margin-right: 250px;
+    cursor: pointer;
+}
+.completed {
+  text-decoration: line-through;
+  text-decoration-color: red;
+}

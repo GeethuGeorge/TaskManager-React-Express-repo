@@ -1,0 +1,9 @@
+.inputText input {
+    width: 300px;
+    height: 40px;
+    margin-left: 23px;
+    margin-right: 153px;
+    border: 1px solid grey;
+    background-color: #152431;
+    color: #8FA8C1;
+}
