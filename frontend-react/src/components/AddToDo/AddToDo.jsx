@@ -14,7 +14,7 @@ export const AddToDo = () => {
     const [todoItem, settodoItem] = useState([]);
     const [todoUpdate, setTodoUpdate] = useState("");
 
-    const API_URL = "http://localhost:3005/api/todo";
+    const API_URL = "https://task-manager-react-express-backend-repo.vercel.app/api/todo";
 
     //--------------------------------------------------
     const fetchToDo = async () => {
